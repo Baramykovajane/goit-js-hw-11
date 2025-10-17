@@ -36,5 +36,6 @@ export function showLoader() {
 }
 
 export function hideLoader() {
-  loader.classList.remove("active");
+    loader.classList.remove("active");
+   
 }
